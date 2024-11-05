@@ -2,7 +2,7 @@
 
 id: Rabin-Karp Algorithm
 sidebar_position: 6  
-title: Rabin-Karp Algorithm
+title: Rabin-Karp-Algorithm
 sidebar_label: Rabin-Karp Algorithm 
 
 ---
